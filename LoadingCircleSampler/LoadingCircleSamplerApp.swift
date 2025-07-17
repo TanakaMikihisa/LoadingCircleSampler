@@ -11,7 +11,7 @@ import SwiftUI
 struct LoadingCircleSamplerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoadingCircleTest()
         }
     }
 }
